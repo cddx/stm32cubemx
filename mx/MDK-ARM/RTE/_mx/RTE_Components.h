@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'stm32cubemx' 
- * Target:  'stm32cubemx' 
+ * Project: 'mx' 
+ * Target:  'mx' 
  */
 
 #ifndef RTE_COMPONENTS_H
